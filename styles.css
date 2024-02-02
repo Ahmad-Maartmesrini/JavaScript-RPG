@@ -1,0 +1,41 @@
+/* colors patle */
+/* https://colorhunt.co/palette/884a39c38154ffc26ff9e0bb */
+body {
+  background-color: #F9E0BB;
+}
+#text {
+  background-color: #F9E0BB;
+  color: #884A39;
+  padding: 10px;
+}
+#game {
+  max-width: 600px;
+  max-height: 500px;
+  background-color: #C38154;
+  color: #884A39;
+  margin: 50px auto 0px;
+  padding: 10px;
+}
+#controls,
+#stats {
+  border: 1px solid #0a0a23;
+  color: #0a0a23;
+  padding: 5px;
+}
+#monsterStats {
+  display: none;
+  border: 1px solid #0a0a23;
+  padding: 5px;
+  color: #fff;
+  background-color: #c70d0d;
+}
+.stat {
+  padding-right: 10px;
+}
+button {
+  cursor: pointer;
+  color: #0a0a23;
+  background-color: #FFC26F;
+  background-image: linear-gradient(#FFC26F, #fbaf46ed);
+  border: 3px solid #FFC26F;
+}
