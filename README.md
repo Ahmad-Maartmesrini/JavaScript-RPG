@@ -1,4 +1,4 @@
-**Project Title:** Textual Triumph: Unraveling the Dragon's Curse
+**Project Title:** Textual Triumph, Unraveling the Dragon's Curse
 
 **Description:**
 
