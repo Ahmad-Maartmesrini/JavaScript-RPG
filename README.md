@@ -1,4 +1,4 @@
-**Project Title:** RPG Game - JavaScript Journey on freeCodeCamp
+**Project Title:** Textual Triumph: Unraveling the Dragon's Curse
 
 **Description:**
 
